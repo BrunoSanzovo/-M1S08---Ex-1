@@ -10,8 +10,8 @@ body::before {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.5; /* Valor de opacidade: 0.5 (50%) */
-    z-index: -1; /* Coloca a camada da imagem de fundo atrás de todos os outros elementos */
+    opacity: 0.5; 
+    z-index: -1;
 }
 
 
@@ -64,7 +64,7 @@ main {
     color: #FFBF00;
 }
 
-/* Novo estilo para o botão Finalizar Compra */
+
 .checkout {
     background-color: #FFBF00;
     color: #332200;
@@ -82,8 +82,8 @@ main {
 }
 #totalItems,
 #totalPrice {
-    color: #FFBF00; /* Cor desejada */
-    font-weight: bold; /* Deixa o texto em negrito */
-    font-size: 20px; /* Tamanho da fonte */
-    /* Outros estilos de texto que você desejar */
+    color: #FFBF00; 
+    font-weight: bold; 
+    font-size: 20px; 
+  
 }

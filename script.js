@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     checkoutButton.addEventListener('click', function() {
-        // Implemente o código para finalizar a compra aqui
+        
         alert('Compra finalizada! Total: R$ ' + totalPrice.toFixed(2));
     });
 
